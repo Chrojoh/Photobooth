@@ -1,0 +1,5 @@
+{
+  "name": "Pet Portrait AI",
+  "description": "Upload a photo of your pet and transform it into various artistic styles like line art, realistic paintings, or vector illustrations using AI. You can then download the generated portrait.",
+  "requestFramePermissions": []
+}
